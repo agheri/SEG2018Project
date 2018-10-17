@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Home Repair Services</string>
+    <string name="hrplogo">hrplogo</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="noAccount">Don\'t have an account?</string>
+    <string name="login">Login</string>
+    <string name="createAccount">Create Account</string>
+</resources>
